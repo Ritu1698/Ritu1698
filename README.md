@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-💬 About me:
-    <p> I'm a CS 2020 graduate from IIEST, Shibpur & an enthusiastic coder. Up for collaborating on some cool projects!!</p>
-    <p> </p>
+#### 💬 About me:
+   <p> I'm a CS 2020 graduate from IIEST, Shibpur & an enthusiastic coder. Up for collaborating on some cool projects!!</p>
+   <p> </p>
 ⚡ Fun fact:
 <p> I prefer TABS OVER SPACES!!!</p>
 <p> </p>
