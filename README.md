@@ -1,4 +1,4 @@
-<img align ="right" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40technologything%2Fgif-that-make-every-programmer-so-relatable-fa5129769eb3&psig=AOvVaw3trJ0cdzPdcdyTEafzhA2W&ust=1601787511184000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDIsZXSl-wCFQAAAAAdAAAAABAQ"  >
+<img align ="right" src ="https://miro.medium.com/max/2160/1*9S3JhMtLGiacpNpziWGN1A.gif" width="350" height="200" >
 
 ### Hi there 👋
 
