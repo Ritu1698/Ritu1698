@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 📫 How to reach me:
- <p> </p>
+ 
  <p>
   <a href="https://www.linkedin.com/in/rituparna-biswas-214270177/">
     <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=linkedin">
