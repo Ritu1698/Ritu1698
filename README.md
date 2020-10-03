@@ -2,6 +2,12 @@
 
 ## Hi there 👋
 
+💬 About me:
+    <p> I'm a CS 2020 graduate from IIEST, Shibpur & an enthusiastic coder. Up for collaborating on some cool projects!!</p>
+    <p> </p>
+⚡ Fun fact:
+<p> I prefer TABS OVER SPACES!!!</p>
+<p> </p>
 📫 How to reach me: 
 <p>
 <a href="https://www.linkedin.com/in/rituparna-biswas-214270177/">
@@ -13,12 +19,7 @@
         <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=gmail"></a>
     </p>
    <p> </p> 
-💬 About Me:
-    <p> I'm a CS 2020 graduate from IIEST, Shibpur & an enthusiastic coder. Up for collaborating on some cool projects!!</p>
-    <p> </p>
-⚡ Fun fact:
-<p> I prefer TABS OVER SPACES!!!</p>
- 
+
   
 
 
