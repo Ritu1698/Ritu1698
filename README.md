@@ -1,4 +1,4 @@
-<img align ="right" src ="https://miro.medium.com/max/2160/1*9S3JhMtLGiacpNpziWGN1A.gif" width="350" height="200" >
+<img align ="right" src ="https://static.skaip.org/img/emoticons/180x180/f6fcff/womandeveloper.gif" width="350" height="200" >
 
 ### Hi there 👋
 
