@@ -7,7 +7,7 @@
    <p> </p>
    
 #### ⚡ Fun fact:
-<p> I prefer tabs over spaces!:p</p>
+<p> I prefer tabs over spaces:P</p>
 <p> </p>
 
 #### 📫 How to reach me: 
