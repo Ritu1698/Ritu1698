@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ritu1698/Ritu1698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📫 How to reach me:
  <p> </p>
  <p>
@@ -10,6 +7,11 @@
     <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=linkedin">
   </a> &nbsp; 
 </p>
+
+
+<!--
+**Ritu1698/Ritu1698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
