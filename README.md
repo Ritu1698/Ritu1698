@@ -2,13 +2,12 @@
 
 ### Hi there 👋
 
-📫 How to reach me:
- 
- <p>
-  <a href="https://www.linkedin.com/in/rituparna-biswas-214270177/">
+📫 How to reach me: <a href="https://www.linkedin.com/in/rituparna-biswas-214270177/">
     <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=linkedin">
-  </a> &nbsp; 
-</p>
+  </a> 
+ 
+  
+
 
 
 <!--
