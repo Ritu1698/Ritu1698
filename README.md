@@ -10,6 +10,7 @@
 <p> </p>
 📫 How to reach me: 
 <p>
+     <p> </p> 
 <a href="https://www.linkedin.com/in/rituparna-biswas-214270177/">
     <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=linkedin">
   </a> 
@@ -18,7 +19,7 @@
     <a href="mailto:biswasrituparna83@gmail.com">
         <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=gmail"></a>
     </p>
-   <p> </p> 
+  
 
   
 
