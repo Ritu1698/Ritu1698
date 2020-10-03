@@ -10,7 +10,7 @@
 </p>
 <p>
     <a href="mailto:biswasrituparna83@gmail.com">
-        <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=gmail">
+        <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=gmail"></a>
     </p>
    <p> </p> 
 💬 About Me:
