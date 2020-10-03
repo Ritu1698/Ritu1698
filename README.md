@@ -1,6 +1,6 @@
 <img align ="right" src ="https://static.skaip.org/img/emoticons/180x180/f6fcff/womandeveloper.gif" >
 
-### Hi there 👋
+## Hi there 👋
 
 📫 How to reach me: 
 <p>
@@ -12,6 +12,12 @@
     <a href="mailto:biswasrituparna83@gmail.com">
         <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=gmail">
     </p>
+   <p> </p> 
+💬 About Me:
+    <p> I'm a CS 2020 graduate from IIEST, Shibpur & an enthusiastic coder. Up for collaborating on some cool projects!!</p>
+    <p> </p>
+⚡ Fun fact:
+<p> I prefer TABS OVER SPACES!!!</p>
  
   
 
