@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=linkedin">
   </a> 
 </p>
+<p>
+    <a href="mailto:biswasrituparna83@gmail.com">
+        <img src="https://img.shields.io/badge/rituparna-biswas-214270177?style=flat&logo=gmail">
+    </p>
  
   
 
